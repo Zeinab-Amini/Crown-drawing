@@ -1,5 +1,5 @@
 import turtle
-z=turtle.Turtle()
+z = turtle.Turtle()
 z.shape("turtle")
 z.speed(8)
 z.pensize(5)
